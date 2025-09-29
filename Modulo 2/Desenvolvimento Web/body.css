@@ -1,0 +1,42 @@
+input{
+    width: 600px;
+    height: 20px;
+}
+
+/* esse justify tem que ser na tag mae  */
+
+nav{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+img{
+    justify-content:center;
+}
+
+ul{
+    display:flex;
+    justify-content: space-between;
+    color: rgb(255, 49, 128);
+}
+
+li{
+    list-style: none;
+
+}
+a{
+    text-decoration: none;
+    color: rgb(255, 49, 128);
+
+}
+h1{
+    color: rgb(255, 49, 128);
+}
+
+
+
+.logo2{
+    margin-left: 200px;
+
+}
